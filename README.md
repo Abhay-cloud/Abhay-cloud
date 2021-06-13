@@ -13,5 +13,5 @@ First year engineering student
   
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-cloud&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-cloud&layout=compact&theme=tokyonight)](https://github.com/abhay-cloud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-cloud&layout=compact&theme=tokyonight)]
 
