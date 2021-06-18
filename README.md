@@ -10,6 +10,8 @@ First year engineering student
 - I like to create Discord Bots (Discord.js)
 - I love to code in Python & Java
 
+![](https://komarev.com/ghpvc/?username=Abhay-cloud&color=orange)
+
   
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay-cloud&show_icons=true&theme=tokyonight&count_private=true)
 
