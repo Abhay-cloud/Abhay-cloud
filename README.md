@@ -17,3 +17,7 @@ First year engineering student
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-cloud&layout=compact&theme=tokyonight)
 
+## Connect with me
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_sn_abhay/)
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abhaycloud)
