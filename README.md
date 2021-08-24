@@ -5,7 +5,7 @@ First year engineering student
 
 
 
-- Learning Advanced Android Development
+- Learning Advanced Android Development & Firebase 
 - Beginner in Web Development (Backend Django)
 - I like to create Discord Bots (Discord.js)
 - I love to code in Python & Java
